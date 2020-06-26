@@ -1,0 +1,17 @@
+{
+  "name": "stonkbot2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twitterFetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-bot": "^0.2.16",
+    "discord.js": "^12.2.0",
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1"
+  }
+}
