@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "alphavantage": "^2.0.1",
     "discord-bot": "^0.2.16",
     "discord.js": "^12.2.0",
     "twit": "^2.2.11",
